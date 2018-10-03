@@ -1,4 +1,3 @@
-# css
 <h1>lesson 4 CSS homework</h1>
 links: <ul>
 <li><a href="://scandy5.github.io/css/part1.html">part1</a></li>
