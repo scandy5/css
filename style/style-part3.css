@@ -9,7 +9,7 @@
 --color_8: #887575;
 }
 
-a.www:visited {
+a.www, a.www:visited {
 	color: var(--color_6);
 }
 a:not([class="www"]):active {
