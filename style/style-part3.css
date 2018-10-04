@@ -18,7 +18,7 @@ a:not([class="www"]):active {
 a:hover{
 	background-color: var(--color_1);
 }
-input[type="checkbox"]:hover{
+input[type="checkbox"]:checked + label {
 	text-decoration: underline;
 }
 input[type="text"]:focus{
