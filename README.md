@@ -5,5 +5,8 @@ links: <ul>
 <li><a href="https://scandy5.github.io/css/part3.html">part3</a></li>
 </ul>
 
+<<<<<<< HEAD
 
 
+
+>>>>>>> c4c6352abc0979e9cfc64385fbb62e26794cb303
